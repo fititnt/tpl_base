@@ -30,7 +30,7 @@ Explicitamente, caso o usuário final tenha acesso ao código fonte e conhecimen
  para si todos os códigos que são usados em tarefas não finais, em especial código SASS. Qualquer outro desenvolvedor deve ter autorização explícita 
 do autor original para poder produzir obras derivadas.
 
-Desenvolvedores com uso autorizado desta base de código reduzir referências ao autor original ao extremamente mínimo desde que mantenham licença 
+Desenvolvedores com uso autorizado desta base de código pore reduzir referências ao autor original ao extremamente mínimo desde que mantenham licença 
 compatível e não tenham sido privados de autorização de uso parcial ou total.
 
 O uso concomitantemente desta base com outros materiais com licenças incompatíveis, como a GPL é de responsabilidade do usuário final, que 
