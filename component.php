@@ -1,11 +1,13 @@
 <?php
-/*
- * @package         tlp_naked
- * @author          Emerson Rocha Luiz ( emerson@webdesign.eng.br - @fititnt -  http://fititnt.org )
- * @copyright       Copyright (C) 2005 - 2011 Webdesign Assessoria em Tecnologia da Informacao.
- * @license         GNU General Public License version 3. See license.txt
+
+/**
+ * @package    Base.Template
+ * @author     Emerson Rocha Luiz <emerson@webdesign.eng.br>
+ * @copyright  Copyright (C) 2005 - 2012 Webdesign Assessoria em Tecnologia da Informacao. All rights reserved.
+ * @license    GNU General Public License version 3. See license.txt
+ *
  */
-defined('_JEXEC') or die('Restricted access');
+defined('_JEXEC') or die;
 
 ?>
 <jdoc:include type="message" />
