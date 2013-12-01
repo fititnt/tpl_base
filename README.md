@@ -1,6 +1,9 @@
 tpl_base
 ========
 
+NOTA IMPORTANTE: Este repositório possivelmente está desatualizado. ELe deve funcionar com versões mais recentes, como a 3.2, porém pode exigir alguma alteração mínima.
+
+
 PHP | Joomla | Template base com HTML5, SASS e jQuery para CMS Joomla 3+
 
 Autor: Emerson Rocha Luiz <emerson@webdesign.eng.br>
